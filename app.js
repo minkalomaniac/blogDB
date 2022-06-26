@@ -6,7 +6,7 @@ const ejs = require("ejs");
 const _ = require("lodash");
 const mongoose = require("mongoose");
 
-const homeStartingContent = "Hi! I'm Pasinee, a pharmacist turned Software Engineer. Welcome to my homepage!";
+const homeStartingContent = "Hi! It's Pasinee, a pharmacist turned Software Engineer. Welcome to my homepage!";
 const contactContent = "pasinee.sb@gmail.com";
 const aboutContent = "These blogposts serve as part of my experiment projects as I learn how to code."
 
